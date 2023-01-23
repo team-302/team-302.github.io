@@ -4,6 +4,7 @@ title: Check point 1
 
 # Home
 * Team 312
+* 1/23/2023
 
 ## Introduction
 
