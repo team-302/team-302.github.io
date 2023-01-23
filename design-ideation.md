@@ -12,9 +12,9 @@ Team 302 brainstormed ideas in order to come up with a product that
 would use at least two different weather sensors and contain a motor or
 a serial actuator. The following are the ideas that were generated.
 
-![image caption](media/image1.png)
+![image caption](photos/image3.png)
 
-![](media/image4.png)
+![](photos/image6.png)
 
 **Sorting**
 
@@ -22,9 +22,9 @@ After brainstorming the team noticed that the ideas worked together to
 form groups. The team sorted these ideas into four groups. The results
 of which are shown below.
 
-![](media/image6.png)
+![](photos/image7.png)
 
-![](media/image3.png)
+![](mphotos/image5.png)
 
 **Design drawings**
 
@@ -44,7 +44,7 @@ hail, debris, and strong winds. The lid will raise up and allow the
 sensors to detect the weather conditions every hour before the lid will
 lower again. The design can be seen below.
 
-![](media/image1.png)
+![](photos/image1.png)
 
 2.  > **Weather Station Glider**
 
@@ -55,7 +55,7 @@ information on temperature, humidity. It is typically used in remote or
 hard-to-reach areas, and can provide valuable data for weather
 forecasting, climate research, and other applications.
 
-> ![](media/image7.png)
+> ![](photos/image4.jpg)
 
 3.  > **Automated AC Unit Cover**
 
@@ -71,4 +71,4 @@ senses wind speed that exceeds X amount will deploy the cover until it
 reaches an acceptable level. This will prevent damages or costly
 repairs.
 
-![](media/image5.png)
+![](photos/image2.png)
