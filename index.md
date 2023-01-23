@@ -9,21 +9,15 @@ title: Check point 1
 
 ## Team Organization
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+[link to team charter](/team-302-team-charter.md)
 
 ## User needs, Benchmarking, and Requirments
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+[link to user needs, Benchmarking, and Requirments](/team-302-team-charter.md)
 
 ## Design Idealation
 
-![](photos/image1.png)
 
-[link to team charter](/team-302-team-charter.md)
+[link to design ideation](/design-ideation.md)
 
 ## Presentation
 
