@@ -19,7 +19,7 @@ Selected Products:
     > Weather
     > Station</span>](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=pd_lpo_4?pd_rd_w=RPJAs&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=KJQENBMJE3GHXEJ75ZJM&pd_rd_wg=Dq6Jb&pd_rd_r=43f80a52-651e-4b87-815c-4cb49d69a1c9&pd_rd_i=B01N5TEHLI&psc=1)
 
-![](media/image1.png)
+![](photos/user-needs-photo/image6.png)
 
   - > Price: $189.99
 
@@ -159,7 +159,8 @@ Negative Comments:
 </table>
 
 2.  > [<span class="underline">U UNNI Wireless Weather
-    > Station</span>](https://www.amazon.com/U-UNNI-Unni-Weather-Station/dp/B08LTRGTJL/ref=sr_1_45?crid=273J7ID8A7CP0&keywords=weather%2Btesting%2Bdevice&qid=1674032400&sprefix=weather%2Btesting%2Bdevice%2Caps%2C149&sr=8-45&th=1)![](media/image14.jpg)
+    > Station</span>](https://www.amazon.com/U-UNNI-Unni-Weather-Station/dp/B08LTRGTJL/ref=sr_1_45?crid=273J7ID8A7CP0&keywords=weather%2Btesting%2Bdevice&qid=1674032400&sprefix=weather%2Btesting%2Bdevice%2Caps%2C149&sr=8-45&th=1)
+    > ![](photos/user-needs-photo/image8.jpg)
 
 > Price: Unavailable at this time
 > 
@@ -316,7 +317,7 @@ Selected Products:
     > Roll
     > Mesh</span>](https://www.amazon.com/SZT-Critter-Prevent-Critters-Entering/dp/B07MR559X4/ref=sr_1_1_sspa?crid=1OJM5SV0VIR06&keywords=solar%2Bpanel%2Bprotection&qid=1674000773&refinements=p_72%3A2661618011&rnid=2661617011&sprefix=%2Caps%2C526&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.006c50ae-5d4c-4777-9bc0-4513d670b6bc&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTkVJNVRUUFZOTjA3JmVuY3J5cHRlZElkPUExMDQ0NTg1MTVMNERUVVVST0lNNiZlbmNyeXB0ZWRBZElkPUEwODQwMzAzMkUzTlgzT0tDQzBGSyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1)
 
-![](media/image7.jpg)
+![](photos/user-needs-photo/image5.jpg)
 
 Price: $89.98
 
@@ -443,15 +444,9 @@ Negative comments:
 4.  > [<span class="underline">MAPORCH 6"x120FT Solar Mesh
     > Screen</span>](https://www.amazon.com/MAPORCH-Proofing-Galvanized-Fastener-Included/dp/B0989Y7VGL)
 
-> ![](media/image10.jpg)
+> ![](photos/user-needs-photo/image1.jpg)
 
-Description: ![1](media/image12.jpg)
-
-![2](media/image2.jpg)
-
-![1](media/image6.jpg)
-
-![1](media/image3.jpg)
+Description: 
 
 ### **Solar panel bird kit - Great design for your roof**
 
@@ -467,7 +462,7 @@ Solar panel bird mesh kit contains:
 
   - > 2 protective gloves to assist with installation
 
-![1](media/image4.jpg)
+
 
 ### **Easy to use**
 
@@ -596,9 +591,10 @@ Search \#3
 
 **Keywords: “**polymethyl methacrylate (PMMA) sheets”
 
-5.  > Selected Products:Clear Acrylic Sheet Plexiglass
+5.  > Selected Products:[ Selected Products:Clear Acrylic Sheet Plexiglass
+](ZW5jcnlwdGVkUXVhbGlmaWVyPUE0UzRFNDAwTEpLRzUmZW5jcnlwdGVkSWQ9QTAwMDkzNTExQjNPUjg2REpITzI3JmVuY3J5cHRlZEFkSWQ9QTAxNjgzMzkzUjVPUDZPSzNQSFVWJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ)
 
-![](media/image5.jpg)
+![](photos/user-needs-photo/image10.jpg)
 
 Price: $37.99
 
@@ -727,7 +723,7 @@ Search \#4
     > Weather Station with LCD Display and Lightning
     > Detection</span>](https://www.amazon.com/AcuRite-01022M-Lightning-Temperature-Detection/dp/B01MEFGGMF/ref=sr_1_23?crid=3C6DF1X2DHWU&keywords=storm+detector&qid=1674017214&s=lawn-garden&sprefix=storm+det%2Clawngarden%2C2298&sr=1-23)
 
-![](media/image13.png)
+![](photos/user-needs-photo/image13.png)
 
   - > Price: $119.98
 
@@ -865,7 +861,7 @@ Negative Comments:
 
 # [<span class="underline">Eve Weather - Apple HomeKit Smart Home, Connected Outdoor Weather Station for Tracking Temperature, Humidity & Barometric Pressure, Precision Sensors, Wireless, Bluetooth and Thread</span>](https://www.amazon.com/Eve-Weather-Connected-Temperature-Barometric/dp/B08YFKWPFB/ref=zg_bs_397435011_sccl_50/133-9788757-2307644?psc=1)
 
-![](media/image16.png)
+![](photos/user-needs-photo/image15.png)
 
   - > **Price:** $69.95
 
@@ -1035,11 +1031,11 @@ Negative Comments:
 Our team organized our consumers' needs into the following three
 categories.
 
-![](media/image11.png)
+![](photos/user-needs-photo/image11.png)
 
-![](media/image15.png)
+![](photos/user-needs-photo/image14.png)
 
-![](media/image9.png)
+![](photos/user-needs-photo/image12.png)
 
 **Ranked**
 
@@ -1047,7 +1043,7 @@ We then ranked all of our customers’ needs based on their individual
 importance to the project and the product. We scored each one out of a
 score of three, three being the highest or most important.
 
-![](media/image8.png)
+![](photos/user-needs-photo/image7.png)
 
 1.  > **U**ser friendly
 
