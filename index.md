@@ -2,15 +2,16 @@
 title: Check point 1
 ---
 
-# Home
+# Weather protective cover
 * Team 302
 * 1/23/2023
-* ASU, EGR 314, Prof. Kelley
+* ASU EGR 314: Embedded Sys Design Project II
+* Prof. Kelley
 
 ## Team Organization
 
 
-
+[link to team charter](/team-302-team-charter.md)
 ## User needs, Benchmarking, and Requirments
 [link to user needs, Benchmarking, and Requirments](/User-Needs.md)
 
