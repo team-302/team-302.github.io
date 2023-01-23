@@ -9,7 +9,7 @@ title: Check point 1
 * Prof. Kelley
 
 ## Team Organization
-
+Team 302’s goal is to be able to make a fully functioning product that meets the requirements, solves the problem given,  is within our budget, and is able to provide measurements related to its environment defined by the user.
 
 [link to team charter](/team-302-team-charter.md)
 ## User needs, Benchmarking, and Requirments
