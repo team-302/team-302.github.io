@@ -21,7 +21,7 @@ _Italic Text_
 
 ## Design Idealation
 
-![](image1.png)
+![](photos/image1.png)
 
 [link to team charter](/team-302-team-charter.md)
 
