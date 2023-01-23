@@ -24,10 +24,4 @@ title: Check point 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPlsDYkBCSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## appendix
-[link to team charter](/team-302-team-charter.md)
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
+[appendixa](/team-302-team-charter.md)
