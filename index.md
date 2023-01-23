@@ -3,8 +3,9 @@ title: Check point 1
 ---
 
 # Home
-* Team 312
+* Team 302
 * 1/23/2023
+* asu, EGR 314, Prof. Kelley
 
 ## Introduction
 
