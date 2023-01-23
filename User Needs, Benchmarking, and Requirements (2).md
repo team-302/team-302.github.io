@@ -9,7 +9,7 @@ Selected Products:
 
 1.  [<span class="underline">Ambient Weather WS-2902 WiFi Smart Weather
     Station</span>](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=pd_lpo_4?pd_rd_w=RPJAs&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=KJQENBMJE3GHXEJ75ZJM&pd_rd_wg=Dq6Jb&pd_rd_r=43f80a52-651e-4b87-815c-4cb49d69a1c9&pd_rd_i=B01N5TEHLI&psc=1)
-![alt text](https://github.com/team-302/team-302.github.io/blob/0ca1abdc98c3cdceba48ffe606b10ceb35a6debf/image1.png)
+![](https://github.com/team-302/team-302.github.io/blob/0ca1abdc98c3cdceba48ffe606b10ceb35a6debf/image1.png)
 
   - Price: $189.99
 
