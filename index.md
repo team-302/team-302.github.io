@@ -12,7 +12,7 @@ title: Check point 1
 
 
 ## User needs, Benchmarking, and Requirments
-[link to user needs, Benchmarking, and Requirments](/team-302-team-charter.md)
+[link to user needs, Benchmarking, and Requirments](/User-Needs.md)
 
 ## Design Idealation
 
