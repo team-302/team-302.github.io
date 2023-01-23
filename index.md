@@ -5,33 +5,33 @@ title: Check point 1
 # Home
 * Team 302
 * 1/23/2023
-* asu, EGR 314, Prof. Kelley
+* ASU, EGR 314, Prof. Kelley
 
-## Introduction
+## Team Organization
 
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## User needs, Benchmarking, and Requirments
 
 * Bullet Point 1
 * Bullet Point 2
 * Bullet Point 3
 
-## Background
+## Design Idealation
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
 [link to background](/background)
 
-## Results
+## Presentation
 
 1. Numbered Point 1
 1. Numbered Point 2
 1. Numbered Point 3
 
-## Conclusions and Future Work
+## appendix
 
 ## External Links
 
