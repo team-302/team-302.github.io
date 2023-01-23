@@ -23,7 +23,7 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to team charter](/team-charter)
+[link to team charter](/team-charter.md)
 
 ## Presentation
 
