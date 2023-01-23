@@ -12,7 +12,7 @@ Team 302 brainstormed ideas in order to come up with a product that
 would use at least two different weather sensors and contain a motor or
 a serial actuator. The following are the ideas that were generated.
 
-![image caption](https://github.com/team-302/team-302.github.io/blob/1475dabb22ac620510b60c2320a71a70e9a1b89e/image1.png)
+![image caption](media/image1.png)
 
 ![](media/image4.png)
 
