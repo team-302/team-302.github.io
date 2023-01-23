@@ -21,7 +21,7 @@ _Italic Text_
 
 ## Design Idealation
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![](image1.png)
 
 [link to team charter](/team-302-team-charter.md)
 
