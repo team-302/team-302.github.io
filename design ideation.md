@@ -55,7 +55,7 @@ information on temperature, humidity. It is typically used in remote or
 hard-to-reach areas, and can provide valuable data for weather
 forecasting, climate research, and other applications.
 
-> ![](media/image7.jpg)
+> ![](media/image7.png)
 
 3.  > **Automated AC Unit Cover**
 
