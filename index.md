@@ -25,7 +25,7 @@ After the team sorted their user needs they then decided to rank them based on t
 
 [link to user needs, Benchmarking, and Requirments](/User-Needs.md)
 
-## Design Idealation
+## Design Ideation
 
 For the team's brianstroming each team member came up with 25 ideas that they had, based on their own ideas, what they saw in the benchmarking, and the ideas of the other team membmers. The team used jamboard to organize their thoughts and allow all team members to see all ideas that the other members had written down. The team then combined differnet ideas together that workd and in the end they were able to create three different designs.
 
