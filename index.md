@@ -2,7 +2,7 @@
 title: Check point 1
 ---
 
-# Weather protective cover
+# Weather Protective Cover
 * Team 302
 * 2/27/2023
 * ASU EGR 314: Embedded Sys Design Project II
@@ -11,29 +11,29 @@ title: Check point 1
 ## Team Organization
 Team 302’s goal is to be able to make a fully functioning product that meets the requirements, solves the problem given,  is within our budget, and is able to provide measurements related to its environment defined by the user.
 
-[link to team charter](/team-302-team-charter.md)
-## User needs, Benchmarking, and Requirments
+[Our charter](/team-302-team-charter.md)
+## User needs, Benchmarking, and Requirements
 
-After team 302 established our organization, the team then gathered eight different products that can be used to benchmark existing products and to gather user needs based on the reviews of the benchmarked products.The team was able to gather together the user needs seen in the below link.
+After team 302 established our organization, the team then gathered eight different products that can be used to benchmark existing products and to gather user needs based on the reviews of the benchmarked products. The team was able to gather together the user needs. (See the below link)
 
-After the team had their user needs they decide to sort them into three groups.
+After we had found enough user needs, we decided to sort them into three groups based on our constraints:
 * Installation and use
 * Longevity
-* Other device standards
+* Other related device standards
 
-After the team sorted their user needs they then decided to rank them based on the importance of these needs with the requirements of the project.
+After we sorted our user needs, we then decided to rank them based on the importance of these needs with the requirements of the project brief.
 
 [link to user needs, Benchmarking, and Requirments](/User-Needs.md)
 
 ## Design Ideation
 
-For the team's brianstroming each team member came up with 25 ideas that they had, based on their own ideas, what they saw in the benchmarking, and the ideas of the other team membmers. The team used jamboard to organize their thoughts and allow all team members to see all ideas that the other members had written down. The team then combined differnet ideas together that workd and in the end they were able to create three different designs.
+For our brainstorming, each team member came up with 25 ideas that they had based on their own ideas: what they saw in the benchmarking, and the ideas of the other team members. We used a jamboard to organize their thoughts and allow all team members to see all ideas that the other members had written down. The team then combined different ideas together that worked with the constraints, and in the end they were able to create three different designs out of them.
 
-The Solar panel protection design was drawn up by Tyler Winder.
+The Solar panel protection design, by Tyler Winder.
 
-The Weather Station Glider design was drawn up by Tilak Rai Thanga Rai.
+The Weather Station Glider design, by Tilak Rai Thanga Rai.
 
-The Automated AC Unit Cover design was drawn up by Jose Nava-Mesina.
+The Automated AC Unit Cover design, by Jose Nava-Mesina.
 
 [link to design ideation](/design-ideation.md)
 
@@ -43,7 +43,7 @@ The Automated AC Unit Cover design was drawn up by Jose Nava-Mesina.
 
 ## Selected Design
 
-The design that the team choose is the solar panel protector. This design consistes of a self contained device that is installed next to the solar panel that when it detects conditions that cause storms that would produce strong winds or hail. This device will then activate a motor that will unroll a stored protective covering over the solar panel inorder to protect it from hail and other storm debris. The device also has a retractable top that will cover the sensors and protect them from hail, debris, and strong winds. The lid will raise up and allow the sensors to detect the weather conditions every hour before the lid will lower again. The design can be seen below.
+The design that we chose was the solar panel protector. This design consists of a self-contained device that is installed next to the solar panel that, when it detects conditions that cause storms that would produce strong winds or hail, it will then activate a motor that will unroll a stored protective covering over the solar panel in order to protect it from the hail, rain, and other storm debris. The device also has a retractable top that will cover the sensors and protect them as well. The lid will raise up and allow the sensors to detect the weather conditions every hour before lowering it again. The design for this protector can be seen below.
 
 
 ![](Selected_design.png)
@@ -70,7 +70,7 @@ The team researched the different components that would be needed for making thi
 
 **Barometric Pressure Sensor**
 
-*  Barometric Pressure Sensor: LPS22HHTR
+*  Barometric Pressure Sensor: KP235XTMA2
 
 **Voltage Regulator**
 
@@ -130,4 +130,4 @@ The team created the following schematics for the following subsystems based on 
 [](/Power_Budget-Power_Budget.md)
 
 ## appendix
-[appendixa](/team-302-team-charter.md)
+[appendix](/team-302-team-charter.md)
