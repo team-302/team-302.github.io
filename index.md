@@ -41,5 +41,12 @@ The Automated AC Unit Cover design was drawn up by Jose Nava-Mesina.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPlsDYkBCSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Selected Design
+
+The design that the team choose is the solar panel protector. This design consistes of a self contained device that is installed next to the solar panel that when it detects conditions that cause storms that would produce strong winds or hail. This device will then activate a motor that will unroll a stored protective covering over the solar panel inorder to protect it from hail and other storm debris. The device also has a retractable top that will cover the sensors and protect them from hail, debris, and strong winds. The lid will raise up and allow the sensors to detect the weather conditions every hour before the lid will lower again. The design can be seen below.
+
+
+![](Selected_design.png)
+
 ## appendix
 [appendixa](/team-302-team-charter.md)
