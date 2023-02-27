@@ -48,5 +48,31 @@ The design that the team choose is the solar panel protector. This design consis
 
 ![](Selected_design.png)
 
+## Block Diagram
+
+![](Block_Diagram-314.jpg)
+
+## Component Selection
+
+[Link to the full component selection](/Component_Selection_Team_302.md)
+
+## Microcontroller Selection
+
+[Link to the full Microcontroller Selection](microcontroller-selection-table-team-302.md)
+
+## Hardware Proposal
+
+![](Actuator_subsystem.png)
+
+![](Barometric_Pressure_sensor.png)
+
+![](wind_sensor_schematic.png)
+
+![](MicroController_VoltageRegulatorSubsystem.png)
+
+## Software Proposal
+
+![](Software_Proposal.jpg)
+
 ## appendix
 [appendixa](/team-302-team-charter.md)
