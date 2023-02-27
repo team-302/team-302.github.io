@@ -58,6 +58,10 @@ The design that the team choose is the solar panel protector. This design consis
 
 ## Microcontroller Selection
 
+After reviewing and studying the different Microcontrollers that were available to the team they decided to go with the PIC18F27Q10. They choose this pic because it as similar to the PIC microcontrol that is used for class work, it contains more then enough pins for the team to use, and contains both I2C and SPI communication pins.
+
+![](PIC18F27Q10-N2X-Regular.jpg)
+
 [Link to the full Microcontroller Selection](microcontroller-selection-table-team-302.md)
 
 ## Hardware Proposal
