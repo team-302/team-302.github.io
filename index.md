@@ -50,9 +50,32 @@ The design that the team choose is the solar panel protector. This design consis
 
 ## Block Diagram
 
+After selecting the design the team then broke down the design into subsystems and created the following block diagram.
+
 ![](Block_Diagram-314.jpg)
 
 ## Component Selection
+
+The team researched the different components that would be needed for making this product.
+
+**Wind Sensor**
+
+* ADC: ADC081C027
+* Op Amp: OPA2310IDR
+* DC Generator: MM10 DC Motor
+
+**Barometric Pressure Sensor**
+
+*  Barometric Pressure Sensor: LPS22HHTR
+
+**Voltage Regulator**
+
+* Voltage Regulator: LM2596S-3.3/NOPB
+
+**Motor System**
+
+* Motor Driver: FX9201SGAUMA1
+* Motor: NF103G-301
 
 [Link to the full component selection](/Component_Selection_Team_302.md)
 
@@ -66,6 +89,8 @@ After reviewing and studying the different Microcontrollers that were available 
 
 ## Hardware Proposal
 
+The team created the following schematics for the following subsystems based on the subsystems created in the block diagram.
+
 ![](Actuator_subsystem.png)
 
 ![](Barometric_Pressure_sensor.png)
@@ -77,6 +102,10 @@ After reviewing and studying the different Microcontrollers that were available 
 ## Software Proposal
 
 ![](Software_Proposal.jpg)
+
+## Power Budget
+
+[](/Power_Budget-Power_Budget.md)
 
 ## appendix
 [appendixa](/team-302-team-charter.md)
