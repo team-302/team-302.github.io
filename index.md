@@ -91,11 +91,19 @@ After reviewing and studying the different Microcontrollers that were available 
 
 The team created the following schematics for the following subsystems based on the subsystems created in the block diagram.
 
+**Actuator Subsystem**
+
 ![](Actuator_subsystem.png)
+
+**Barometric Pressure Sensor**
 
 ![](Barometric_Pressure_sensor.png)
 
+**Wind Sensor**
+
 ![](wind_sensor_schematic.png)
+
+**MicroController and Voltage Regulator**
 
 ![](MicroController_VoltageRegulatorSubsystem.png)
 
