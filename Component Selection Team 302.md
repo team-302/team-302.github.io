@@ -23,7 +23,7 @@ Tyler Winder, Sam Kohler, Jose Nava-Mesina,Tilak Raj Thanga Raj
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image16.png" style="width:1.04167in;height:0.58333in" /></th>
+<th><img src="photo_component/image3.png" style="width:1.04167in;height:0.58333in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Cheapest option of the three</p>
@@ -85,7 +85,7 @@ Tyler Winder, Sam Kohler, Jose Nava-Mesina,Tilak Raj Thanga Raj
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image14.png" style="width:2.02083in;height:1.13889in" /></th>
+<th><img src="photo_component/image16.png" style="width:2.02083in;height:1.13889in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Has the highest sample rate</p>
@@ -148,7 +148,7 @@ Tyler Winder, Sam Kohler, Jose Nava-Mesina,Tilak Raj Thanga Raj
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image3.png" style="width:1.04167in;height:0.58333in" /></th>
+<th><img src="photo_component/image12.png" style="width:1.04167in;height:0.58333in" /></th>
 <th><ul>
 <li><blockquote>
 <p>HaUses I2C more channels can be used for both sensors</p>
@@ -218,7 +218,7 @@ range, and is the cheapest of the three.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image12.png" style="width:1.5625in;height:1.02083in" /></th>
+<th><img src="photo_component/image7.png" style="width:1.5625in;height:1.02083in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Has multiple channels so could use both sensors</p>
@@ -280,7 +280,7 @@ range, and is the cheapest of the three.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image11.png" style="width:1.5625in;height:0.85417in" /></th>
+<th><img src="photo_component/image3.png" style="width:1.5625in;height:0.85417in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Has two channels</p>
@@ -342,7 +342,7 @@ range, and is the cheapest of the three.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image7.png" style="width:1.5625in;height:1.29167in" /></th>
+<th><img src="photo_component/image5.png" style="width:1.5625in;height:1.29167in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Cheapest option</p>
@@ -412,7 +412,7 @@ are still within the range of our product.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image10.jpg" style="width:2.02083in;height:1.40278in" /></th>
+<th><img src="photo_component/image15.jpg" style="width:2.02083in;height:1.40278in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Contains a holder</p>
@@ -474,7 +474,7 @@ are still within the range of our product.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image9.jpg" style="width:2.02083in;height:2.19444in" /></th>
+<th><img src="photo_component/image14.jpg" style="width:2.02083in;height:2.19444in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Contain a holder</p>
@@ -536,7 +536,7 @@ are still within the range of our product.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image18.png" style="width:2.02083in;height:1.55556in" /></th>
+<th><img src="photo_component/image18.png" style="width:2.02083in;height:1.55556in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Cheapest option</p>
@@ -607,9 +607,9 @@ that would need to be tested.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image6.jpg" style="width:0.83854in;height:0.83854in" /></th>
+<th><img src="photo_component/image13.jpg" style="width:0.83854in;height:0.83854in" /></th>
 <th><ul>
-<li><blockquote>
+<li><blockquote>photo_component/image13.jpg
 <p>Tracks temperature and barometric pressure</p>
 </blockquote></li>
 </ul></th>
@@ -669,7 +669,7 @@ that would need to be tested.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image4.jpg" style="width:2.02083in;height:2.02778in" /></th>
+<th><img src="photo_component/image17.jpg" style="width:2.02083in;height:2.02778in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Within the 3.3V operating range.</p>
@@ -731,7 +731,7 @@ that would need to be tested.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image5.jpg" style="width:2.02083in;height:2.02778in" /></th>
+<th><img src="photo_component/image2.jpg" style="width:2.02083in;height:2.02778in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Low power mode available just in case</p>
@@ -802,7 +802,7 @@ Option 1 would be a good fallback if needed.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image13.png" style="width:1.83854in;height:1.84802in" /></th>
+<th><img src="photo_component/image4.png" style="width:1.83854in;height:1.84802in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Supplies fixed voltage</p>
@@ -864,7 +864,7 @@ Option 1 would be a good fallback if needed.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image17.png" style="width:0.90104in;height:0.90104in" /></th>
+<th><img src="photo_component/image8.png" style="width:0.90104in;height:0.90104in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Good voltage range</p>
@@ -926,7 +926,7 @@ Option 1 would be a good fallback if needed.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="media/image15.png" style="width:0.73141in;height:0.73518in" /></th>
+<th><img src="photo_component/image6.png" style="width:0.73141in;height:0.73518in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Good voltage range</p>
@@ -995,7 +995,7 @@ availability. .
 <thead>
 <tr class="header">
 <th><p><strong>Solution</strong></p>
-<p><img src="media/image8.png" style="width:2.02083in;height:2.02778in" /></p>
+<p><img src="photo_component/image10.png" style="width:2.02083in;height:2.02778in" /></p>
 <p>Option 1</p>
 <p>IFX9201SGAUMA1</p>
 <p>DC H Bridge Driver</p>
@@ -1024,7 +1024,7 @@ availability. .
 </ul></th>
 </tr>
 <tr class="odd">
-<th><h1 id="section"><img src="media/image2.png" style="width:1.5625in;height:1.09375in" /></h1>
+<th><h1 id="section"><img src="photo_component/image9.png" style="width:1.5625in;height:1.09375in" /></h1>
 <p>Option 2</p>
 <p>MCF8315A1VRGFR</p>
 <p>DC H Bridge Driver</p>
@@ -1045,7 +1045,7 @@ availability. .
 </ul></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image1.png" style="width:1.52083in;height:1.23958in" /></p>
+<th><p><img src="photo_component/image1.png" style="width:1.52083in;height:1.23958in" /></p>
 <p>Option 3</p>
 <p>BD6210HFP-TR</p>
 <p>DC H Bridge Driver</p>
