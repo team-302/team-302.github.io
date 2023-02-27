@@ -56,6 +56,8 @@ After selecting the design the team then broke down the design into subsystems a
 
 ![](Block_Diagram-314.jpg)
 
+[Link](/Block_Diagram-314.jpg)
+
 ## Component Selection
 
 The team researched the different components that would be needed for making this product.
@@ -97,21 +99,31 @@ The team created the following schematics for the following subsystems based on 
 
 ![](Actuator_subsystem.png)
 
+[Link](/Actuator_subsystem.png)
+
 **Barometric Pressure Sensor**
 
 ![](Barometric_Pressure_sensor.png)
 
+[Link](/Barometric_Pressure_sensor.png)
+
 **Wind Sensor**
 
-![](wind_sensor_schematic.png)
+![]((wind_sensor_schematic.png)
+
+[Link](/(wind_sensor_schematic.png)
 
 **MicroController and Voltage Regulator**
 
 ![](MicroController_VoltageRegulatorSubsystem.png)
 
+[Link](/MicroController_VoltageRegulatorSubsystem.png)
+
 ## Software Proposal
 
 ![](Software_Proposal.jpg)
+
+[Link](/Software_Proposal.jpg)
 
 ## Power Budget
 
