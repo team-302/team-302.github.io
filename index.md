@@ -48,6 +48,8 @@ The design that the team choose is the solar panel protector. This design consis
 
 ![](Selected_design.png)
 
+[Link](/Selected_design.png)
+
 ## Block Diagram
 
 After selecting the design the team then broke down the design into subsystems and created the following block diagram.
