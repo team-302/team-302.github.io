@@ -170,7 +170,7 @@
 <td><blockquote>
 <p>KP235XTMA2</p>
 </blockquote></td>
-<td>4.5 - 5.75V</td>
+<td>3.475 - 5.25V</td>
 <td>1</td>
 <td>20</td>
 <td>20</td>
