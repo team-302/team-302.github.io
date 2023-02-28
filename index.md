@@ -127,7 +127,7 @@ The team created the following schematics for the following subsystems based on 
 
 ## Power Budget
 
-[](/Power_Budget-Power_Budget.md)
+[Link](/Power_Budget-Power_Budget.md)
 
 ## appendix
 [appendix](/team-302-team-charter.md)
