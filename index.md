@@ -109,9 +109,9 @@ The team created the following schematics for the following subsystems based on 
 
 **Wind Sensor**
 
-![]((wind_sensor_schematic.png)
+![](wind_sensor_schematic.png)
 
-[Link](/(wind_sensor_schematic.png)
+[Link](/wind_sensor_schematic.png)
 
 **MicroController and Voltage Regulator**
 
