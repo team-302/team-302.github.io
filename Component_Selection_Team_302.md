@@ -669,7 +669,7 @@ that would need to be tested.
 <th>Cons</th>
 </tr>
 <tr class="odd">
-<th><img src="photo_component/image17.jpg" style="width:2.02083in;height:2.02778in" /></th>
+<th><img src="photo_component/KP235XTMA2 pic.jpg" style="width:2.02083in;height:2.02778in" /></th>
 <th><ul>
 <li><blockquote>
 <p>Within the 3.3V operating range.</p>
@@ -708,7 +708,7 @@ that would need to be tested.
 </ul></th>
 </tr>
 <tr class="header">
-<th colspan="3">$4.37 each</th>
+<th colspan="3">$9.16 each</th>
 </tr>
 <tr class="odd">
 <th colspan="3"><a href="https://www.digikey.com/en/products/detail/infineon-technologies/KP253XTMA2/6021600"><u>link</u></a></th>
