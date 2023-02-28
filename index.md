@@ -23,7 +23,7 @@ After we had found enough user needs, we decided to sort them into three groups 
 
 After we sorted our user needs, we then decided to rank them based on the importance of these needs with the requirements of the project brief.
 
-[link to user needs, Benchmarking, and Requirments](/User-Needs.md)
+[link to user needs, Benchmarking, and Requirements](/User-Needs.md)
 
 ## Design Ideation
 
@@ -127,7 +127,7 @@ The team created the following schematics for the following subsystems based on 
 
 ## Power Budget
 
-[](/Power_Budget-Power_Budget.md)
+![](/Power_Budget-Power_Budget.md)
 
 ## appendix
 [appendix](/team-302-team-charter.md)
