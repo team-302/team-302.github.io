@@ -168,7 +168,7 @@
 <p>Barometric Pressure Sensor</p>
 </blockquote></td>
 <td><blockquote>
-<p>LPS22HHTR</p>
+<p>KP235XTMA2</p>
 </blockquote></td>
 <td>4.5 - 5.75V</td>
 <td>1</td>
