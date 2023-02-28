@@ -685,7 +685,7 @@ that would need to be tested.
 <th>Option 2</th>
 <th><ul>
 <li><blockquote>
-<p>22,000 g shock survivability</p>
+<p>Simple circuit build</p>
 </blockquote></li>
 </ul></th>
 <th><ul>
@@ -711,7 +711,7 @@ that would need to be tested.
 <th colspan="3">$4.37 each</th>
 </tr>
 <tr class="odd">
-<th colspan="3"><a href="https://www.digikey.com/en/products/detail/stmicroelectronics/LPS22HHTR/9586578"><u>link</u></a></th>
+<th colspan="3"><a href="https://www.digikey.com/en/products/detail/infineon-technologies/KP253XTMA2/6021600"><u>link</u></a></th>
 </tr>
 </thead>
 <tbody>
@@ -780,9 +780,9 @@ that would need to be tested.
 </tbody>
 </table>
 
-**Choice:** Option 2: LPS22HHTR
+**Choice:** Option 2: KP235XTMA2
 
-**Rationale:** The LPS22HHTR is the most reliable and inexpensive of the
+**Rationale:** The KP235XTMA2 is the most reliable and inexpensive of the
 few options available for these types of sensors, and requires the least
 amount of calculations to be done in post compared to the other two.
 Option 1 would be a good fallback if needed.
