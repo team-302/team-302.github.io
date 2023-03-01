@@ -65,21 +65,39 @@ The team researched the different components that would be needed for making thi
 **Wind Sensor**
 
 * ADC: ADC081C027
+
+![](photo_component/image3.png)
+
 * Op Amp: OPA2310IDR
+
+![](photo_component/image11.png)
+
 * DC Generator: MM10 DC Motor
+
+![](photo_component/image18.png)
 
 **Barometric Pressure Sensor**
 
-*  Barometric Pressure Sensor: KP235XTMA2
+*  Barometric Pressure Sensor: LPS22HHTR
+
+![](photo_component/image17.jpg)
 
 **Voltage Regulator**
 
 * Voltage Regulator: LM2596S-3.3/NOPB
 
+![](photo_component/image6.png)
+
 **Motor System**
 
-* Motor Driver: FX9201SGAUMA1
+* Motor Driver: IFX9201SGAUMA1
+
+![](photo_component/image1.png)
+
 * Motor: NF103G-301
+
+![](photo_component/MFG_NF103LG-301.png)
+
 
 [Link to the full component selection](/Component_Selection_Team_302.md)
 
