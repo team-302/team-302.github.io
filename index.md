@@ -103,9 +103,9 @@ The team created the following schematics for the following subsystems based on 
 
 **Barometric Pressure Sensor**
 
-![](Barometric_Pressure_sensor.png)
+![](Barometric_Pressure_sensor2.png)
 
-[Link](/Barometric_Pressure_sensor.png)
+[Link](/Barometric_Pressure_sensor2.png)
 
 **Wind Sensor**
 
@@ -115,9 +115,9 @@ The team created the following schematics for the following subsystems based on 
 
 **MicroController and Voltage Regulator**
 
-![](MicroController_VoltageRegulatorSubsystem.png)
+![](MicroController_VoltageRegulatorSubsystem2.png)
 
-[Link](/MicroController_VoltageRegulatorSubsystem.png)
+[Link](/MicroController_VoltageRegulatorSubsystem2.png)
 
 ## Software Proposal
 
