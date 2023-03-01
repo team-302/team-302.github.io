@@ -23,6 +23,10 @@ After we had found enough user needs, we decided to sort them into three groups 
 
 After we sorted our user needs, we then decided to rank them based on the importance of these needs with the requirements of the project brief.
 
+Based off of our benchmarking the closest products that were found were adding addition glass to the panels and using hail car covers.
+
+![](photos/user-needs-photo/image10.jpg)
+
 [link to user needs, Benchmarking, and Requirements](/User-Needs.md)
 
 ## Design Ideation
