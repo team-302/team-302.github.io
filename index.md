@@ -65,32 +65,38 @@ The team researched the different components that would be needed for making thi
 **Wind Sensor**
 
 * ADC: ADC081C027
+* This ADC has the best input voltage range, temperature range, and is the cheapest of the three. 
 
 ![](photo_component/image3.png)
 
 * Op Amp: OPA2310IDR
+* The reason we are choosing this one is it does have two channels which we can use both sensors through it.
 
 ![](photo_component/image11.png)
 
 * DC Generator: MM10 DC Motor
+* This product is currently available to us for free and it does work with previous testing.
 
 ![](photo_component/image18.png)
 
 **Barometric Pressure Sensor**
 
 *  Barometric Pressure Sensor: LPS22HHTR
+*  The LPS22HHTR is the most reliable and inexpensive of the few options available for these types of sensors, and requires the least amount of calculations to be done in post compared to the other two.
 
 ![](photo_component/image17.jpg)
 
 **Voltage Regulator**
 
 * Voltage Regulator: LM2596S-3.3/NOPB
+* Best choice in terms of operation and for what our design needs. May be a bit on the expensive side but it covers all the bases where some of the other components fall a bit short with good stock availability. 
 
 ![](photo_component/image6.png)
 
 **Motor System**
 
 * Motor Driver: IFX9201SGAUMA1
+* SPI is only provided in the above motor driver. Also includes a flyback diode.
 
 ![](photo_component/image1.png)
 
