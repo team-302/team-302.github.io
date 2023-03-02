@@ -85,10 +85,10 @@ The team researched the different components that would be needed for making thi
 
 **Barometric Pressure Sensor**
 
-*  Barometric Pressure Sensor: LPS22HHTR
-*  The LPS22HHTR is the most reliable and inexpensive of the few options available for these types of sensors, and requires the least amount of calculations to be done in post compared to the other two.
+*  Barometric Pressure Sensor: KP235XTMA2
+*  The KP235XTMA2 is the most reliable and inexpensive of the few options available for these types of sensors, and requires the least amount of calculations to be done in post compared to the other two.
 
-![](photo_component/image17.jpg)
+![](photo_component/KP235XTMA2.jpg)
 
 **Voltage Regulator**
 
