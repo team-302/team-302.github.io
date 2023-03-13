@@ -125,27 +125,32 @@ The team created the following schematics for the following subsystems based on 
 
 **Actuator Subsystem**
 
-![](Actuator_subsystem.png)
+![](Actuator_subsystem2.png)
 
-[Link](/Actuator_subsystem.png)
+[Link](/Actuator_subsystem2.png)
 
 **Barometric Pressure Sensor**
 
-![](Barometric_Pressure_sensor2.png)
+![](Barometric_Pressure_sensor3.png)
 
-[Link](/Barometric_Pressure_sensor2.png)
+[Link](/Barometric_Pressure_sensor3.png)
 
 **Wind Sensor**
 
-![](wind_sensor_schematic.png)
+![](wind_sensor_schematic2.png)
 
-[Link](/wind_sensor_schematic.png)
+[Link](/wind_sensor_schematic2.png)
 
 **MicroController and Voltage Regulator**
 
-![](MicroController_VoltageRegulatorSubsystem2.png)
+![](MicroController_VoltageRegulatorSubsystem3.png)
 
-[Link](/MicroController_VoltageRegulatorSubsystem2.png)
+[Link](/MicroController_VoltageRegulatorSubsystem3.png)
+
+**Full team Schematic**
+![](MicroController_VoltageRegulatorSubsystem4.png)
+
+[Link](/MicroController_VoltageRegulatorSubsystem4.png)
 
 ## Software Proposal
 
