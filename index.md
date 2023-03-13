@@ -58,9 +58,9 @@ The design that we chose was the solar panel protector. This design consists of 
 
 After selecting the design the team then broke down the design into subsystems and created the following block diagram.
 
-![](Block_Diagram-314.jpg)
+![](Block_Diagram.jpg)
 
-[Link](/Block_Diagram-314.jpg)
+[Link](/Block_Diagram.jpg)
 
 ## Component Selection
 
