@@ -44,6 +44,9 @@ title: Check point 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XPlsDYkBCSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Introduction
+Every year in the United States there are at least 10,000 storms that have hail big enough to damage solar panels. Team 302's goal is to be able to sovle this issue.
+![](solarPanel1.jpg)
+![](solarPanel2.jpg)
 
 ## Team Organization
 Team 302’s goal is to be able to make a fully functioning product that meets the requirements, solves the problem given,  is within our budget, and is able to provide measurements related to its environment defined by the user.
