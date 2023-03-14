@@ -10,9 +10,11 @@ title: Check point 1
 
 ## Table of Context
 * Introduction
-* Team Organization
+* Presentation
 <details><summary>Expand</summary>
 <p>
+ 
+  * Team Organization
  
   * User needs, Benchmarking, and Requirements
  
@@ -36,6 +38,12 @@ title: Check point 1
   
 </p>
 </details>
+
+## Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XPlsDYkBCSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Introduction
 
 ## Team Organization
 Team 302’s goal is to be able to make a fully functioning product that meets the requirements, solves the problem given,  is within our budget, and is able to provide measurements related to its environment defined by the user.
@@ -70,9 +78,6 @@ The Automated AC Unit Cover design, by Jose Nava-Mesina.
 
 [link to design ideation](/design-ideation.md)
 
-## Presentation
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XPlsDYkBCSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Selected Design
 
