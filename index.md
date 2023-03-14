@@ -45,6 +45,7 @@ title: Check point 1
 
 ## Introduction
 Every year in the United States there are at least 10,000 storms that have hail big enough to damage solar panels. Team 302's goal is to be able to sovle this issue.
+
 ![](solarPanel1.jpg)
 ![](solarPanel2.jpg)
 
