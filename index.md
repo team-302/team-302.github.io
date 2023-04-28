@@ -14,17 +14,17 @@ title: Check point 1
 <details><summary>Table of content</summary>
 <p>
  
-  * Team Organization
-  * User needs, Benchmarking, and Requirement
-  * Design Ideation
-  * Selected Design
-  * Block Diagram
-  * Component Selection
-  * MicroController Selection
-  * Hardware Proposal
-  * Software Proposal
-  * Power Budget
-  * Appendex
+* Team Organization
+* User needs, Benchmarking, and Requirement
+* Design Ideation
+* Selected Design
+* Block Diagram
+* Component Selection
+* MicroController Selection
+* Hardware Proposal
+* Software Proposal
+* Power Budget
+* Appendex
   
 </p>
 </details>
