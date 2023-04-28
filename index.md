@@ -13,6 +13,7 @@ title: Check point 1
 * Presentation
 <details open>
 <summary>expand</summary>
+<br>
 * Team Organization
 * User needs, Benchmarking, and Requirement
 * Design Ideation
