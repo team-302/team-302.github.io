@@ -92,52 +92,47 @@ The team researched the different components that would be needed for making thi
 **Wind Sensor**
 
 * ADC: ADC081C027
-* This ADC has the best input voltage range, temperature range, and is the cheapest of the three. 
+* This ADC has the best input voltage range, temperature range, is the cheapest of the three, and has a higher sample rate of 189 kSPS.
 
 ![](photo_component/image3.png)
 
 * Op Amp: OPA2310IDR
-* The reason we are choosing this one is it does have two channels which we can use both sensors through it.
+* The reason we are choosing this one is that it has a lower input offset voltage, a higher bandwidth, a rail-to-rail input and output, and a lower power consumption.
 
 ![](photo_component/image11.png)
 
 * DC Generator: MM10 DC Motor
-* This product is currently available to us for free and it does work with previous testing.
+* This product is currently available to us for free, has a higher torque output, has a higher efficiency rating, is designed for continuous use.
 
 ![](photo_component/image18.png)
 
 **Barometric Pressure Sensor**
 
-*  Barometric Pressure Sensor: KP235XTMA2
-*  The KP235XTMA2 is the most reliable and inexpensive of the few options available for these types of sensors, and requires the least amount of calculations to be done in post compared to the other two.
+*  Barometric Pressure Sensor: KP253XTMA2
+*  The KP253XTMA2 is a piezoresistive pressure sensor with a wide pressure range and a high accuracy. It is designed for harsh environments and can operate at temperatures ranging from -40°C to 125°C.
 
 ![](photo_component/KP235XTMA2 pic.jpg)
 
 **Voltage Regulator**
 
 * Voltage Regulator: LM2596S-3.3/NOPB
-* Best choice in terms of operation and for what our design needs. May be a bit on the expensive side but it covers all the bases where some of the other components fall a bit short with good stock availability. 
+* Best choice in terms of operation and for what our design needs. May be a bit on the expensive side but it covers all the bases where some of the other components fall a bit short with good stock availability. It also has a high efficiency (up to 85%) and can operate over a wide input voltage range (4.5V to 40V).
 
 ![](photo_component/image6.png)
 
 **Motor System**
 
 * Motor Driver: IFX9201SGAUMA1
-* SPI is only provided in the above motor driver. Also includes a flyback diode.
+* The IFX9201SGAUMA1 is a highly integrated H bridge driver that provides a number of benefits, such as high efficiency, low power consumption, and high reliability. It also has built-in protection features such as over-temperature protection, over-voltage protection, and short-circuit protection.
 
 ![](photo_component/image1.png)
-
-* Motor: NF103G-301
-
-![](photo_component/MFG_NF103LG-301.png)
 
 
 [Link to the full component selection](/Component_Selection_Team_302.md)
 
 ## Microcontroller Selection
 
-After reviewing and studying the different Microcontrollers that were available to the team they decided to go with the PIC18F27Q10. They choose this pic because it as similar to the PIC microcontrol that is used for class work, it contains more then enough pins for the team to use, and contains both I2C and SPI communication pins.
-
+After reviewing and studying the different Microcontrollers that were available to the team they decided to go with the PIC18F27Q10. They choose this pic because it has a higher maximum operating frequency of 64 MHz, has a larger program memory of 128 KB, and has a higher number of input/output (I/O) pins.
 ![](PIC18F27Q10-N2X-Regular.jpg)
 
 [Link to the full Microcontroller Selection](microcontroller-selection-table-team-302.md)
