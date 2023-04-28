@@ -190,7 +190,7 @@ The team created the following schematics for the following subsystems based on 
 
 We will be using Mplab and MCC to program our microcontroller.
 
-![](Software_Proposal2.jpg)
+![](newSoftware.png)
 
 [Link](/Software_Proposal2.jpg)
 
