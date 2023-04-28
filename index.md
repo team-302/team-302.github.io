@@ -51,29 +51,33 @@ Every year in the United States there are at least 10,000 storms that have hail 
 ![](solarPanel2.jpg)
 
 ## Team Organization
-Team 302’s goal is to be able to make a fully functioning product that meets the requirements, solves the problem given,  is within our budget, and is able to provide measurements related to its environment defined by the user.
+Hailstorms and other debris can be a significant threat to the integrity of solar panels, leading to substantial damage and financial losses. With the rise in the use of solar panels across the United States, the risk of damage caused by hail and other debris is also increasing. According to recent estimates, there are at least 10,000 storms every year in the United States that produce hail large enough to cause damage to solar panels. This underscores the need for effective solutions that can mitigate the damage caused by these storms and debris.
 
+In light of these challenges, Team 302 aims to develop innovative solutions to address this issue. They recognize that developing a solution that can effectively protect solar panels from damage caused by hail and other debris is critical to ensuring the longevity and reliability of solar panels. Their efforts could significantly reduce the risks and costs associated with the maintenance and repair of solar panels, while also increasing their overall efficiency.
 [Our charter](/team-302-team-charter.md)
+
+
 ## User needs, Benchmarking, and Requirements
 
-After team 302 established our organization, the team then gathered eight different products that can be used to benchmark existing products and to gather user needs based on the reviews of the benchmarked products. The team was able to gather together the user needs. (See the below link)
 
-After we had found enough user needs, we decided to sort them into three groups based on our constraints:
-* Installation and use
-* Longevity
-* Other related device standards
 
-After we sorted our user needs, we then decided to rank them based on the importance of these needs with the requirements of the project brief.
+After establishing the organization, team 302 realized the importance of understanding user needs in developing successful products. To achieve this, the team gathered eight different products that are similar to their target products and can be used to benchmark existing products. By benchmarking, the team was able to evaluate and compare the features of their target products to the market competitors, which provided insights into the strengths and weaknesses of their target products.
 
-Based off of our benchmarking the closest products that were found were adding addition glass to the panels and using hail car covers.
+Through the benchmarking process, the team also gathered user needs by analyzing the reviews of the benchmarked products. This helped the team to understand the key requirements of their potential customers and what they expect from similar products.
 
-![](photos/user-needs-photo/image10.jpg)
+Once the team had gathered enough user needs, they grouped them into three categories based on the constraints that they faced. These categories were installation and use, longevity, and other related device standards. By grouping the user needs, the team was able to focus on specific areas and prioritize the requirements that were most important to their target customers.
+
+The installation and use category focused on the ease of setting up and using the product. The longevity category focused on the durability and lifespan of the product. Finally, the other related device standards category focused on the compatibility and integration of the product with other devices in the market.
+
+By sorting the user needs into these three categories, the team was able to ensure that they were addressing the most critical requirements of their target customers while considering the constraints that they had to work with. This approach helped the team to develop a product that not only met the user needs but also aligned with their organization's goals and objectives.
+
+
 
 [link to user needs, Benchmarking, and Requirements](/User-Needs.md)
 
 ## Design Ideation
 
-For our brainstorming, each team member came up with 25 ideas that they had based on their own ideas: what they saw in the benchmarking, and the ideas of the other team members. We used a jamboard to organize their thoughts and allow all team members to see all ideas that the other members had written down. The team then combined different ideas together that worked with the constraints, and in the end they were able to create three different designs out of them.
+During our brainstorming session, every team member generated 25 ideas based on their own insights, observations from benchmarking, and suggestions from other team members. We utilized a jamboard to compile and display these ideas, ensuring that every team member could view all of them. Subsequently, we merged compatible ideas together while taking into account the relevant constraints, ultimately resulting in three distinct designs.
 
 The Solar panel protection design, by Tyler Winder.
 
@@ -86,7 +90,7 @@ The Automated AC Unit Cover design, by Jose Nava-Mesina.
 
 ## Selected Design
 
-The design that we chose was the solar panel protector. This design consists of a self-contained device that is installed next to the solar panel that, when it detects conditions that cause storms that would produce strong winds or hail, it will then activate a motor that will unroll a stored protective covering over the solar panel in order to protect it from the hail, rain, and other storm debris. The device also has a retractable top that will cover the sensors and protect them as well. The lid will raise up and allow the sensors to detect the weather conditions every hour before lowering it again. The design for this protector can be seen below.
+We opted for the solar panel protector as our chosen design. This design comprises a self-contained unit that is installed adjacent to the solar panel. When it detects weather conditions that are likely to cause strong winds or hail, the device will activate a motor to unfurl a protective covering over the solar panel, safeguarding it against damage from hail, rain, and other storm debris. Additionally, the unit has a retractable lid that shields the sensors from the elements. The lid will raise every hour, allowing the sensors to assess the weather conditions before closing again. The design of this protector is depicted below.
 
 
 ![](Selected_design.png)
