@@ -12,7 +12,7 @@ title: Check point 1
 * Introduction
 * Presentation
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>expand</summary>
 * Team Organization
 * User needs, Benchmarking, and Requirement
 * Design Ideation
@@ -25,6 +25,7 @@ title: Check point 1
 * Power Budget
 * Appendex
 </details>
+
 
 
 ## Presentation
