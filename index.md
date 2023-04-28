@@ -11,9 +11,6 @@ title: Check point 1
 ## Table of Content
 * Introduction
 * Presentation
-<details><summary>Table of content</summary>
-<p>
- 
 * Team Organization
 * User needs, Benchmarking, and Requirement
 * Design Ideation
@@ -26,8 +23,6 @@ title: Check point 1
 * Power Budget
 * Appendex
   
-</p>
-</details>
 
 ## Presentation
 
