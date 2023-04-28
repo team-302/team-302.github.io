@@ -15,16 +15,27 @@ title: Check point 1
 <summary>expand</summary>
 <br>
 * Team Organization
+  <br>
 * User needs, Benchmarking, and Requirement
+  <br>
 * Design Ideation
+  <br>
 * Selected Design
+  <br>
 * Block Diagram
+  <br>
 * Component Selection
+  <br>
 * MicroController Selection
+  <br>
 * Hardware Proposal
+  <br>
 * Software Proposal
+  <br>
 * Power Budget
+  <br>
 * Appendex
+  <br>
 </details>
 
 
