@@ -8,10 +8,10 @@ title: Check point 1
 * ASU EGR 314: Embedded Sys Design Project II
 * Prof. Kelley
 
-## Table of Context
+## Table of Content
 * Introduction
 * Presentation
-<details><summary>Expand</summary>
+<details><summary>Table of content</summary>
 <p>
  
   * Team Organization
