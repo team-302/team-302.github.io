@@ -11,6 +11,8 @@ title: Check point 1
 ## Table of Content
 * Introduction
 * Presentation
+<details open>
+<summary>Want to ruin the surprise?</summary>
 * Team Organization
 * User needs, Benchmarking, and Requirement
 * Design Ideation
@@ -22,7 +24,8 @@ title: Check point 1
 * Software Proposal
 * Power Budget
 * Appendex
-  
+</details>
+
 
 ## Presentation
 
