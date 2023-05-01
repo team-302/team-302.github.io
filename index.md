@@ -256,5 +256,11 @@ By incorporating these features into the software design, the weather protective
 
 [Link](/Power_Budget-Power_Budget.md)
 
+## System Verification
+
+![](table.png)
+
+[Link](/table.png)
+
 ## appendix
 [appendix](/team-302-team-charter.md)
