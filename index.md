@@ -175,20 +175,26 @@ The team created the following schematics for the following subsystems based on 
 
 **Wind Sensor**
 
-![](wind_sensor_schematic2.png)
+![](temp.pngg)
 
-[Link](/wind_sensor_schematic2.png)
+[Link](/temp.png)
 
 **MicroController and Voltage Regulator**
 
-![](MicroController_VoltageRegulatorSubsystem3.png)
+![](Micro.png)
 
-[Link](/MicroController_VoltageRegulatorSubsystem3.png)
+[Link](/Micro.png)
+
+**ESP32**
+
+![](esp32.png)
+
+[Link](/esp32.png)
 
 **Full team Schematic**
-![](MicroController_VoltageRegulatorSubsystem4.png)
+![](fin.png)
 
-[Link](/MicroController_VoltageRegulatorSubsystem4.png)
+[Link](/fin.png)
 
 ## Software Proposal
 
