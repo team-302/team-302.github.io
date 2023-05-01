@@ -161,7 +161,7 @@ After reviewing and studying the different Microcontrollers that were available 
 
 The team by gathering and analyzing user needs and benchmarking existing products in the market, the team was able to develop a weather protective cover with a barometric pressure sensor and a wind sensor that met the critical requirements of their target customers. The team's approach to sorting user needs into three categories based on installation and use, longevity, and related device standards allowed them to prioritize the most critical requirements while considering the constraints they faced. The resulting product not only met the user needs but also aligned with the organization's goals and objectives. They created the following schematics for the following subsystems based on the subsystems created in the block diagram.
 
-**Actuator Subsystem**
+**Motor Subsystem**
 
 ![](Actuator_subsystem2.png)
 
@@ -205,6 +205,24 @@ Another change that the team can make is to fix pin one on the voltage regulator
 Furthermore, the team can switch the motors for ones that have more torque. This change can improve the product's performance, making it more efficient and effective in its operation. Customers will appreciate the increased functionality and reliability of the product.
 
 Overall, by making these changes, the team can release a v2 product that meets the evolving needs of their customers, improves the compatibility and durability of the product, and enhances its performance. The team can continue to gather feedback and insights from their customers to inform future iterations of the product, ensuring that they are meeting the most critical requirements of their target market.
+
+**PCB Design**
+
+![](PCBdesign.png)
+
+[Link](/PCBdesign.png)
+
+**Front**
+
+![](frontreal.jpg)
+
+[Link](/frontreal.jpg)
+
+**Back**
+
+![](backreal.jpg)
+
+[Link](/backreal.jpg)
 
 ## Software Proposal
 
