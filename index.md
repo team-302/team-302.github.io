@@ -175,7 +175,7 @@ The team created the following schematics for the following subsystems based on 
 
 **Wind Sensor**
 
-![](temp.pngg)
+![](temp.png)
 
 [Link](/temp.png)
 
