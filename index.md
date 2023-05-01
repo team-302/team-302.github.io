@@ -159,7 +159,7 @@ After reviewing and studying the different Microcontrollers that were available 
 
 ## Hardware Proposal
 
-The team created the following schematics for the following subsystems based on the subsystems created in the block diagram.
+The team by gathering and analyzing user needs and benchmarking existing products in the market, the team was able to develop a weather protective cover with a barometric pressure sensor and a wind sensor that met the critical requirements of their target customers. The team's approach to sorting user needs into three categories based on installation and use, longevity, and related device standards allowed them to prioritize the most critical requirements while considering the constraints they faced. The resulting product not only met the user needs but also aligned with the organization's goals and objectives. They created the following schematics for the following subsystems based on the subsystems created in the block diagram.
 
 **Actuator Subsystem**
 
@@ -196,6 +196,16 @@ The team created the following schematics for the following subsystems based on 
 
 [Link](/fin.png)
 
+With the insights gained from the user needs analysis and benchmarking, the team can now focus on improving their product to meet the evolving needs of their customers. One of the improvements they can make is to release a new version, v2, of their product.
+
+Based on the feedback and insights gathered from the user needs analysis, the team can make several changes to their v2 product to better meet their customers' requirements. One of the changes is to switch the So pin from RA5 to RC2. This change can improve the product's compatibility with other devices commonly used in the industry, making it easier for customers to integrate the product into their existing setup.
+
+Another change that the team can make is to fix pin one on the voltage regulator so that the pin connects to power and the capacitor connects to ground. This change can improve the durability and lifespan of the product, ensuring that it can withstand harsh weather conditions and provide reliable protection from the elements.
+
+Furthermore, the team can switch the motors for ones that have more torque. This change can improve the product's performance, making it more efficient and effective in its operation. Customers will appreciate the increased functionality and reliability of the product.
+
+Overall, by making these changes, the team can release a v2 product that meets the evolving needs of their customers, improves the compatibility and durability of the product, and enhances its performance. The team can continue to gather feedback and insights from their customers to inform future iterations of the product, ensuring that they are meeting the most critical requirements of their target market.
+
 ## Software Proposal
 
 We will be using Mplab and MCC to program our microcontroller.
@@ -203,6 +213,26 @@ We will be using Mplab and MCC to program our microcontroller.
 ![](newSoftware.png)
 
 [Link](/Software_Proposal2.jpg)
+
+The weather station features a cover that protects it from environmental factors such as rain and wind. Users can view the status of the cover, which indicates whether it is open or closed. Additionally, the weather station records real-time data of current weather readings such as temperature, humidity, air pressure, and wind speed. Users can view this data to stay informed about the current weather conditions. They can also view retime data of the current weather readings to get a better understanding of how the weather is changing over time.
+
+The software design for a weather protective cover for solar panels underwent several significant changes to ensure reliable and efficient operation. One of the most significant changes was the addition of an ESP32 module to provide real-time weather data. This allowed the cover to adjust its position based on the current weather conditions, such as wind speed and precipitation, to provide maximum protection for the solar panels.
+
+Another significant change was the use of correct I2C communication and SPI communication protocols to ensure accurate and consistent communication between the various components of the system. This improved the overall reliability of the system and reduced the risk of communication errors that could lead to malfunction or damage.
+
+The third major change was the ability for the sensors to control the motor, enabling the cover to automatically adjust its position in response to changes in the environment. For example, the cover could detect changes in sunlight intensity and adjust its position to optimize energy collection.
+
+A fourth major change was the addition of a timer to prevent the cover from sliding open and close every few seconds. This timer allowed the cover to remain closed during periods of inclement weather, improving the protection provided to the solar panels and reducing the risk of damage.
+
+Overall, these changes significantly improved the functionality and reliability of the weather protective cover for solar panels, ensuring that the panels are protected from harsh weather conditions while maximizing energy collection.
+
+To improve the software design for the weather protective cover for solar panels, there are several steps that can be taken. Firstly, the software should allow the user to open or close the cover via the ESP32. This will provide the user with greater control over the cover, allowing them to adjust it as necessary based on changing weather conditions.
+
+Secondly, the sensors used to monitor weather conditions should be calibrated to be more accurate. This will ensure that the cover is opened and closed at the right time to protect the solar panels from the elements. The software should be designed to allow for easy calibration of the sensors, so that users can adjust them as necessary to ensure accurate readings.
+
+Finally, the software should include a cleaning feature that allows users to set a schedule for cleaning the solar panels. This will help to ensure that the panels are free from dirt and debris, which can impact their performance. The cleaning feature should be customizable, allowing users to set the frequency and duration of cleaning cycles.
+
+By incorporating these features into the software design, the weather protective cover for solar panels can be made more effective and user-friendly. It will provide users with greater control over the cover and ensure that the panels are protected from the elements, maximizing their performance and lifespan.
 
 ## Power Budget
 
