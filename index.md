@@ -275,6 +275,13 @@ By incorporating these features into the software design, the weather protective
 
 ## appendix
 
+**Code**
+[Link](/Code)
+
+**MQTT**
+
+The Team's MQTT topic table was EGR314/Team302/
+
 **Power Budget**
 
 [Link](/Power_Budget-Power_Budget.md)
