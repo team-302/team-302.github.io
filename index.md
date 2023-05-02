@@ -293,6 +293,7 @@ The Team's MQTT topic table was EGR314/Team302/
 [Link](/table.png)
 
 **Team Charter**
+
 [Link](/team-302-team-charter.md)
 
 **Build of Materials**
