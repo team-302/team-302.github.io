@@ -1,0 +1,181 @@
+/**
+  Generated Main Source File
+
+  Company:
+    Microchip Technology Inc.
+
+  File Name:
+    main.c
+
+  Summary:
+    This is the main file generated using PIC10 / PIC12 / PIC16 / PIC18 MCUs
+
+  Description:
+    This header file provides implementations for driver APIs for all modules selected in the GUI.
+    Generation Information :
+        Product Revision  :  PIC10 / PIC12 / PIC16 / PIC18 MCUs - 1.81.8
+        Device            :  PIC18F27Q10
+        Driver Version    :  2.00
+*/
+
+/*
+    (c) 2018 Microchip Technology Inc. and its subsidiaries. 
+    
+    Subject to your compliance with these terms, you may use Microchip software and any 
+    derivatives exclusively with Microchip products. It is your responsibility to comply with third party 
+    license terms applicable to your use of third party software (including open source software) that 
+    may accompany Microchip software.
+    
+    THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER 
+    EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY 
+    IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS 
+    FOR A PARTICULAR PURPOSE.
+    
+    IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, 
+    INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND 
+    WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP 
+    HAS BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO 
+    THE FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL 
+    CLAIMS IN ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT 
+    OF FEES, IF ANY, THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS 
+    SOFTWARE.
+*/
+
+#include "mcc_generated_files/mcc.h"
+#include "mcc_generated_files/examples/i2c1_master_example.h"
+#include "mcc_generated_files/i2c1_master.h"
+volatile uint8_t receivedByte1;
+volatile uint8_t receivedByte2;
+
+void EUSART2_ISR(void)
+{
+    if(EUSART2_is_rx_ready())
+        receivedByte1 = EUSART2_Read();
+    while (!EUSART1_is_tx_ready);
+    EUSART2_Write(receivedByte1);
+    while (!EUSART1_is_tx_done());
+    
+}
+void EUSART1_ISR(void)
+{
+    EUSART1_Receive_ISR();
+    if(EUSART1_is_rx_ready())
+        receivedByte2 = EUSART1_Read();
+    while (!EUSART2_is_tx_ready);
+    EUSART2_Write(receivedByte2);
+    while (!EUSART2_is_tx_done());
+    
+}
+
+
+int temp=0;
+ uint16_t bob;
+ uint16_t bob2;
+ char data[100];
+ char data2[100];
+void main(void)
+{
+    // Initialize the device
+    SYSTEM_Initialize();
+    EUSART2_SetRxInterruptHandler(EUSART2_ISR);
+    EUSART1_SetRxInterruptHandler(EUSART1_ISR);
+    uint8_t test[2];
+    char temp = 0;
+    int open=0;
+    CS_SetHigh();
+    NCS_SetHigh();
+    uint8_t test2[2];
+    // If using interrupts in PIC18 High/Low Priority Mode you need to enable the Global High and Low Interrupts
+    // If using interrupts in PIC Mid-Range Compatibility Mode you need to enable the Global and Peripheral Interrupts
+    // Use the following macros to:
+
+    // Enable the Global Interrupts
+    INTERRUPT_GlobalInterruptEnable();
+
+    // Disable the Global Interrupts
+    //INTERRUPT_GlobalInterruptDisable();
+
+    // Enable the Peripheral Interrupts
+    INTERRUPT_PeripheralInterruptEnable();
+    EUSART2_Initialize();
+    EUSART1_Initialize();
+    // Disable the Peripheral Interrupts
+    //INTERRUPT_PeripheralInterruptDisable();
+   
+    SPI2_Open(SPI2_DEFAULT);
+    
+    
+    while (1)
+    {
+        test[0]=I2C1_Read1ByteRegister(0x52, 0x00);
+        __delay_ms(1);
+        
+        test[1]=I2C1_Read1ByteRegister(0x52, 0x00);
+        __delay_ms(1);
+        bob = test[0]<<8|test[1];
+        NCS_SetLow();
+        data[0]=0b00100000;
+        data[1]=0b00000000;
+        data[2]=0b00000000;
+        data[3]=0b00000000;
+        SPI2_ExchangeBlock(data,1)
+        data2[20]=data[0];
+        data2[1]=data[1];
+        data2[2]=data[2];
+        data2[3]=data[3];
+        p=data[2]<<data[3];
+        printf("System Disengaged Pressure: %u\r", p);
+        
+        if(bob>=70&&open==0){
+           CS_SetLow();// set chip select low
+        __delay_ms(10);//delay 10ms
+        data[0] = 0b11101111 ;// writes bytes value  0b11101111
+        SPI2_ExchangeBlock(data, 1);//exchange data with motor controller
+        __delay_ms(10);//delay 10ms
+        CS_SetHigh();//set chip set high
+        __delay_ms(10);// delay 10ms
+        temp = data[0]; // temp variable  = data
+        __delay_ms(1000);//delay 200ms
+        CS_SetLow();// set chip select low
+        __delay_ms(10);//delay 10ms
+        data[0] = 0b11000000 ;// writes bytes value  0b11101111
+        SPI2_ExchangeBlock(data, 1);//exchange data with motor controller
+        __delay_ms(10);//delay 10ms
+        CS_SetHigh();//set chip set high
+        __delay_ms(10);// delay 10ms
+        temp = data[0]; // temp variable  = data
+        __delay_ms(1000);//delay 200ms
+          
+        open=1;
+        printf("System Engaged Pressure: %u\r", p);
+        }
+        if(bob<70&&open==1){
+             CS_SetLow();// set chip select low
+        __delay_ms(10);//delay 10ms
+        data[0] = 0b11101101 ;// writes bytes value  0b11101111
+        SPI2_ExchangeBlock(data, 1);//exchange data with motor controller
+        __delay_ms(10);//delay 10ms
+        CS_SetHigh();//set chip set high
+        __delay_ms(10);// delay 10ms
+        temp = data[0]; // temp variable  = data
+        __delay_ms(1000);//delay 200ms
+        CS_SetLow();// set chip select low
+        __delay_ms(10);//delay 10ms
+        data[0] = 0b11000000 ;// writes bytes value  0b11101111
+        SPI2_ExchangeBlock(data, 1);//exchange data with motor controller
+        __delay_ms(10);//delay 10ms
+        CS_SetHigh();//set chip set high
+        __delay_ms(10);// delay 10ms
+        temp = data[0]; // temp variable  = data
+        __delay_ms(1000);//delay 200ms
+        open=0;
+        printf("System Disengaged Pressure: %u\r", p);
+        }
+            
+        
+         
+    }
+}
+/**
+ End of File
+*/
