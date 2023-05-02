@@ -32,8 +32,6 @@ title: Check point 1
   <br>
 * Software Proposal
   <br>
-* Power Budget
-  <br>
 * Appendex
   <br>
 </details>
