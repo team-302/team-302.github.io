@@ -252,7 +252,20 @@ Finally, the software should include a cleaning feature that allows users to set
 
 By incorporating these features into the software design, the weather protective cover for solar panels can be made more effective and user-friendly. It will provide users with greater control over the cover and ensure that the panels are protected from the elements, maximizing their performance and lifespan.
 
-**Recommendations for future students**
+## Lessons Learned
+
+1. Designing systems that can respond to environmental conditions using serial sensing and actuation.
+1. Using serial sensors to detect environmental conditions such as temperature, humidity, atmospheric pressure, and wind speed.
+1. Implementing motor controllers that communicate over I2C or SPI protocols.
+1. Developing controlled responses with actuators, such as tracking controllers for solar panels, fan controllers, and humidity control systems.
+1. Utilizing the MQTT protocol to broadcast environmental data to the internet over WiFi.
+1. Building functional prototypes that meet specific engineering design specifications, budgetary requirements, and instructor-defined requirements.
+1. Demonstrating prototypes at the Innovation Showcase and meeting specific evaluation criteria.
+1. Working in teams to collaborate on project design and development.
+1. Developing problem-solving and critical thinking skills.
+1. Gaining hands-on experience with soldering, breadboarding, and PCB design.
+
+## Recommendations for future students
 
 1. Learn as much C and Python as you can outside of this class.
 1. Brush up on wiring and breadboarding, as well as learn about different protocols such as SPI and I2C.
