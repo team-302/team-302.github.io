@@ -252,6 +252,14 @@ Finally, the software should include a cleaning feature that allows users to set
 
 By incorporating these features into the software design, the weather protective cover for solar panels can be made more effective and user-friendly. It will provide users with greater control over the cover and ensure that the panels are protected from the elements, maximizing their performance and lifespan.
 
+**Recommendations for future students**
+
+1. Learn as much C and Python as you can outside of this class.
+1. Brush up on wiring and breadboarding, as well as learn about different protocols such as SPI and I2C.
+1. Prioritize this class heavily, as assignments are almost back-to-back weekly with little to no breaks in between. It is more intense than EGR 304.
+1. Practice soldering as much as possible to improve your PCB design and parts placement skills.
+1. Attend office hours and seek help from the professor or TA early on if you're struggling. Also, form study groups with your peers and work on problem sets together to better understand the material and stay on track.
+
 ## Power Budget
 
 [Link](/Power_Budget-Power_Budget.md)
