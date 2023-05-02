@@ -260,15 +260,21 @@ By incorporating these features into the software design, the weather protective
 1. Practice soldering as much as possible to improve your PCB design and parts placement skills.
 1. Attend office hours and seek help from the professor or TA early on if you're struggling. Also, form study groups with your peers and work on problem sets together to better understand the material and stay on track.
 
-## Power Budget
+## appendix
+
+**Power Budget**
 
 [Link](/Power_Budget-Power_Budget.md)
 
-## System Verification
+**System Verification**
 
 ![](table.png)
 
 [Link](/table.png)
 
-## appendix
-[appendix](/team-302-team-charter.md)
+**Team Charter**
+[Link](/team-302-team-charter.md)
+
+**Build of Materials**
+![](Bill.png)
+[Link](/BillofMaterials.xlsx)
